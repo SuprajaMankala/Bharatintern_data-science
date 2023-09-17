@@ -1,2 +1,2 @@
-# Bharatintern_data-science
+# Bharatintern data-science
 Data Science  virtual Internship in Bharatintern 
